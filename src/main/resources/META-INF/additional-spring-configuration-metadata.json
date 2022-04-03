@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "satellites.numbers",
+    "type": "java.lang.String",
+    "description": "A description for 'satellites.numbers'"
+  },
+  {
+    "name": "satellites.position.dimensions",
+    "type": "java.lang.String",
+    "description": "A description for 'satellites.position.dimensions'"
+  },
+  {
+    "name": "satellites.0.position",
+    "type": "java.lang.String",
+    "description": "A description for 'satellites.0.position'"
+  },
+  {
+    "name": "satellites.1.position",
+    "type": "java.lang.String",
+    "description": "A description for 'satellites.1.position'"
+  },
+  {
+    "name": "satellites.2.position",
+    "type": "java.lang.String",
+    "description": "A description for 'satellites.2.position'"
+  },
+  {
+    "name": "satellites.amount",
+    "type": "java.lang.String",
+    "description": "A description for 'satellites.amount'"
+  },
+  {
+    "name": "satellites.bidimensional",
+    "type": "java.lang.String",
+    "description": "A description for 'satellites.bidimensional'"
+  }
+]}
